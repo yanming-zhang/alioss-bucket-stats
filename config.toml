@@ -1,0 +1,12 @@
+listen-address = ":8080"
+refresh-interval-second= 180
+
+[envs.stg]
+    region = "cn-zhangjiakou"
+    accessKeyId = "XXXXXXXXXXXXXXXXXXXXXXXX"
+    accessKeySecret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+[envs.sth]
+    region = "cn-hangzhou"
+    accessKeyId = "XXXXXXXXXXXXXXXXXXXXXXXX"
+    accessKeySecret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
