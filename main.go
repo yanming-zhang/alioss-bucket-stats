@@ -28,9 +28,9 @@ var (
 
 	metricList  = []string{
 		"MeteringStorageUtilization",	// 存储大小
-		"MeteringInternetTX",			// 公网流出计量流量
-		"MeteringCdnTX",				// cdn流出计量流量
-		"MeteringSyncTX",				// 跨区域复制流出计量流量
+		"MeteringInternetTX",		// 公网流出计量流量
+		"MeteringCdnTX",		// cdn流出计量流量
+		"MeteringSyncTX",		// 跨区域复制流出计量流量
 	}
 )
 
